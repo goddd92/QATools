@@ -1,0 +1,2 @@
+# QATools
+autotests
